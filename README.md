@@ -49,6 +49,3 @@ Multi-modal classification system for dermoscopic skin lesion diagnosis using bo
 - Pandas, NumPy for data manipulation
 - XGBoost for gradient boosting
 
-
-**Course**: CSSAI 403 - Machine Learning & Pattern Recognition  
-**Institution**: The British University in Dubai
